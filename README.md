@@ -1,6 +1,5 @@
 # demo-notedebt
-To list a debt
-
-Hello this is new version!!
-And this is new too!!
-Teerasak pro This branch is goodbye
+This program is for list a debt  
+I'm make this to practice my skill python code and pandas  
+  
+This is version 1.00
